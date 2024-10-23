@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Chatbot</h1>
+    <div id="chatbox">
+        <div id="chat-log"></div>
+        <input type="text" id="user-input" placeholder="Ask something...">
+        <button id="send-btn">Send</button>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#send-btn').on('click', function () {
+                var userInput = $('#user-input').val();
+                if (userInput) {
+                    // Add user query to the chat log
+                    $('#chat-log').append('<div><strong>You:</strong> ' + userInput + '</div>');
+
+                    // Clear input field
+                    $('#user-input').val('');
+
+                    // Send the query to Flask server
+                    $.ajax({
+                        url: '/get-response',
+                        method: 'POST',
+                        data: { query: userInput },
+                        success: function (response) {
+                            // Add chatbot reply to the chat log
+                            $('#chat-log').append('<div><strong>Bot:</strong> ' + response.response + '</div>');
+                        },
+                        error: function (xhr, status, error) {
+                            // Display error message
+                            $('#chat-log').append('<div><strong>Bot:</strong> Sorry, there was an error processing your request.</div>');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

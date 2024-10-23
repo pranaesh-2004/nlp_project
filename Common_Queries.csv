@@ -1,0 +1,224 @@
+Ticket_Id,Customer_Name,Customer_Email,Customer_Age,Customer_Gender,Query_Text,Query_Category,Timestamp,Common_Resolution,Specific_Resolution,Resolution_Status
+1,Marisa Obrien,marisa.obrien@gmail.com,30,Female,How can I track my order?,Order Management Team,01-10-2024 10:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+To track your order, log in to your Flipkart account, go to the Orders section, select the order you want to track.",,Resolved
+2,Jessica Rios,jessica.rios@gmail.com,28,Female,How can I cancel my order?,Order Management Team,01-10-2024 10:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Log in, go to Orders, select the order, click ""Cancel,"" and choose a reason. Confirm the cancellation.",,Resolved
+3,Christopher Robbins,christopher.robbins@gmail.com,32,Male,How do I return or replace an item?,Returns and Refunds Team,01-10-2024 10:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Log in, go to Orders, select the item, choose ""Return"" or ""Replace,"" select a reason, and follow the steps for pickup/drop-off.",,Resolved
+4,Christina Dillon,christina.dillon@gmail.com,27,Female,When will I get my refund?,Returns and Refunds Team,01-10-2024 10:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Refunds are processed within 7-10 business days after return. Check the status in the Refunds section of your account.",,Resolved
+5,Alexander Carroll,alexander.carroll@gmail.com,29,Male,Why was my order canceled?,Order Management Team,01-10-2024 10:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Possible reasons: out of stock, payment issues, delivery limitations. You will receive a notification via SMS or email.",,Resolved
+6,Rebecca Fleming,rebecca.fleming@gmail.com,35,Female,What payment methods are available?,Billing and Payment Support Team,01-10-2024 10:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Flipkart supports Credit/Debit Cards, Net Banking, UPI, Wallets, and Cash on Delivery (COD) for certain locations.",,Resolved
+7,Jacqueline Wright,jacqueline.wright@gmail.com,31,Female,How do I change my delivery address?,Order Management Team,01-10-2024 10:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+  Before shipment, you can change the address in the Orders section by selecting ""Change Address.""",,Resolved
+8,Denise Lee,denise.lee@gmail.com,36,Female,How do I use Flipkart gift cards?,Technical Support Team,01-10-2024 10:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Apply the gift card code at checkout under the ""Gift Cards"" section.",,Resolved
+9,Nicolas Wilson,nicolas.wilson@gmail.com,34,Male,What is the delivery time for my order?,Order Management Team,01-10-2024 10:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Delivery times depend on your location and the seller. Check the product page or Orders section for an estimate.",,Resolved
+10,William Dawson,william.dawson@gmail.com,40,Male,What should I do if I receive a damaged item?,Warranty and Claims Team,01-10-2024 10:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Log in, go to Orders, choose ""Return"" or ""Replace,"" upload photos if needed, and schedule a pickup or drop-off.",,Resolved
+11,Joseph Moreno,joseph.moreno@gmail.com,33,Male,How can I contact customer support?,General Service Team,01-10-2024 10:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Contact through Flipkart’s Help Center, phone support, or email form in the Help section of the website/app.",,Resolved
+12,Brandon Arnold,brandon.arnold@gmail.com,28,Male,What is Flipkart Plus?,General Service Team,01-10-2024 10:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ A loyalty program offering free delivery, early sale access, and SuperCoins for purchases.",,Resolved
+13,Tamara Hahn,tamara.hahn@gmail.com,37,Female,How do I redeem SuperCoins?,General Service Team,01-10-2024 11:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Go to the SuperCoin Zone in the app and redeem coins for offers or apply them at checkout.",,Resolved
+14,Sandra Barnes,sandra.barnes@gmail.com,30,Female,What are the delivery charges?,Order Management Team,01-10-2024 11:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+  Delivery charges depend on the product, seller, and location. Free delivery is available for certain products, or for Flipkart Plus members.",,Resolved
+15,Amy Hill,amy.hill@gmail.com,29,Female,Why was my payment declined?,Billing and Payment Support Team,01-10-2024 11:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Payment issues could be due to insufficient funds, incorrect details, or network errors. Contact your bank or try a different method.",,Resolved
+16,Elizabeth Foley,elizabeth.foley@gmail.com,31,Female,How do I apply a coupon code?,Order Management Team,01-10-2024 11:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Enter the coupon code during checkout in the ""Apply Coupon"" field, then click ""Apply.""",,Resolved
+17,Julia Salazar,julia.salazar@gmail.com,28,Female,How do I change my mobile number/email?,Account Management Team,01-10-2024 11:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Go to ""My Profile,"" select ""Edit"" next to your mobile number or email, update, and verify.",,Resolved
+18,Joshua Castillo,joshua.castillo@gmail.com,35,Male,How do I report a seller or product?,General Service Team,01-10-2024 11:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Go to Orders, select the item, and click ""Report Issue."" Fill out the form with details of your concern.",,Resolved
+19,Wendy Davis,wendy.davis@gmail.com,32,Female,Can I change my payment method after ordering?,Billing and Payment Support Team,01-10-2024 11:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Payment methods cannot be changed after placing the order. You may cancel the order and place a new one with a different method.",,Resolved
+20,Jeffrey Robertson,jeffrey.robertson@gmail.com,38,Male,How do I add multiple delivery addresses?,Order Management Team,01-10-2024 11:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Go to ""My Addresses"" in your account, click ""Add New Address,"" fill in the new details, and save.",,Resolved
+21,Suzanne Holmes,suzanne.holmes@gmail.com,39,Female,Can I schedule a delivery for a specific time?,Order Management Team,01-10-2024 11:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Currently, Flipkart does not allow scheduling deliveries for specific times. Delivery windows depend on the courier partner.",,Resolved
+22,Tanner Conley,tanner.conley@gmail.com,30,Male,How do I know if my area is serviceable?,Order Management Team,01-10-2024 11:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+Enter your PIN code on the product page to check if delivery is available in your area.",,Resolved
+23,Stephanie Nelson DVM,stephanie.nelson@gmail.com,28,Female,What happens if I’m not available during delivery?,Order Management Team,01-10-2024 11:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+The delivery partner will attempt redelivery or leave instructions to reschedule. Contact the courier for more details.",,Resolved
+24,Antonio Scott,antonio.scott@gmail.com,33,Male,How do I update my payment details?,Billing and Payment Support Team,01-10-2024 11:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.You can update payment information during checkout. Payment details can be changed per order but not after it is placed.",,Resolved
+25,John Cuevas,john.cuevas@gmail.com,27,Male,Can I get an invoice for my order?,Billing and Payment Support Team,01-10-2024 12:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you. Yes, after the order is delivered, you can download the invoice from the Orders section.",,Resolved
+26,Gregory Bautista,gregory.bautista@gmail.com,34,Male,How do I apply for EMI options?,Billing and Payment Support Team,01-10-2024 12:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ At checkout, select an EMI plan under payment options. You can choose from credit card or debit card EMI plans based on your eligibility.",,Resolved
+27,Ryan Sharp,ryan.sharp@gmail.com,29,Male,What is Flipkart’s warranty policy?,Warranty and Claims Team,01-10-2024 12:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Warranty policies vary by product and manufacturer. You can check the warranty details on the product page under ""Warranty Information.""",,Resolved
+28,Michael Mcdowell,michael.mcdowell@gmail.com,35,Male,How do I check my order history?,Order Management Team,01-10-2024 12:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Go to the Orders section in your Flipkart account to view your past orders.",,Resolved
+29,Christine Wang,christine.wang@gmail.com,31,Female,How can I expedite my delivery?,Order Management Team,01-10-2024 12:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Flipkart offers faster delivery options for select products. Choose ""Express Delivery"" if available during checkout.",,Resolved
+30,Austin George,austin.george@gmail.com,32,Male,How do I return a product purchased using COD?,Returns and Refunds Team,01-10-2024 12:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+For COD orders, return the product using the standard return process. Once the return is processed, a refund will be initiated.",,Resolved
+31,Wendy Roberts,wendy.roberts@gmail.com,29,Female,Can I return part of a combo or set?,Returns and Refunds Team,01-10-2024 12:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ No, the entire combo or set must be returned if it’s part of the return policy.",,Resolved
+32,Robert Wilson,robert.wilson@gmail.com,40,Male,How do I change the size of an item I ordered?,Returns and Refunds Team,01-10-2024 12:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Log in to your account, go to the Orders section, and request an exchange for a different size if available.",,Resolved
+33,Christina Gray,christina.gray@gmail.com,28,Female,How do I get an order shipped to a different country?,General Service Team,01-10-2024 12:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Flipkart does not currently offer international shipping. Delivery is restricted to serviceable PIN codes within India.",,Resolved
+34,Timothy Lyons,timothy.lyons@gmail.com,36,Male,"Why can’t I see the ""Return"" option for my order?",Returns and Refunds Team,01-10-2024 12:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ The return option may not be available if the return window has expired or the product is not returnable. Check the product's return policy.",,Resolved
+35,Stacy Jones,stacy.jones@gmail.com,30,Female,How do I request a product demo or installation?,Technical Support Team,01-10-2024 12:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Some products come with free installation or demo services. You can request this after the product is delivered, and a service engineer will contact you.",,Resolved
+36,Joann King,joann.king@gmail.com,35,Female,How do I find deals or discounts?,General Service Team,01-10-2024 12:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Flipkart’s homepage features daily deals, and discounts are available during sales. You can also use coupon codes during checkout.",,Resolved
+37,Ruben Henry,ruben.henry@gmail.com,37,Male,How do I stop getting promotional emails or SMS?,General Service Team,01-10-2024 13:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ You can unsubscribe from promotional communications by changing your notification preferences in the Flipkart account settings.",,Resolved
+38,Morgan Wagner,morgan.wagner@gmail.com,31,Male,Can I buy items in bulk?,General Service Team,01-10-2024 13:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Bulk orders may have restrictions based on the seller. Contact Flipkart customer support for more information on bulk purchasing policies.",,Resolved
+39,Kevin Ingram,kevin.ingram@gmail.com,32,Male,How can I edit my review?,General Service Team,01-10-2024 13:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ To edit a review, go to your profile, locate the review, and choose the ""Edit"" option to update your feedback.",,Resolved
+40,Michael Oneal,michael.oneal@gmail.com,28,Male,Why was my review rejected?,General Service Team,01-10-2024 13:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.
+ Reviews may be rejected if they don’t follow Flipkart’s review guidelines, including inappropriate language or irrelevant content.",,Resolved
+41,Casey Tran,casey.tran@gmail.com,29,Female,How do I check if a product is original?,General Service Team,01-10-2024 13:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart only allows verified sellers to list genuine products. For added assurance, check for ""Flipkart Assured"" products that pass quality checks.",,Resolved
+42,Katie Mitchell,katie.mitchell@gmail.com,30,Female,Can I request delivery to my office address?,Order Management Team,01-10-2024 13:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, you can add any valid delivery address, including your office. Make sure someone is available to receive the package.",,Resolved
+43,Justin Giles,justin.giles@gmail.com,35,Male,What is the process for a lost package?,General Service Team,01-10-2024 13:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If your package is marked as delivered but you haven't received it, contact customer support to investigate the issue and file a complaint.",,Resolved
+44,Michael Allison,michael.allison@gmail.com,33,Male,Can I pay using international credit cards?,Billing and Payment Support Team,01-10-2024 13:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart supports certain international credit cards for orders, depending on the card issuer’s policies. Confirm during checkout if it’s accepted.",,Resolved
+45,Donald Gibbs,donald.gibbs@gmail.com,28,Male,How do I remove an item from my cart?,Order Management Team,01-10-2024 13:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Go to your cart, click the ""Remove"" or ""Delete"" option next to the item you no longer wish to purchase.",,Resolved
+46,Timothy Sutton,timothy.sutton@gmail.com,36,Male,How can I edit my personal details?,Account Management Team,01-10-2024 13:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.In your account settings, you can edit your profile information such as your name, email, mobile number, and delivery addresses.",,Resolved
+47,Cassandra Richards,cassandra.richards@gmail.com,34,Female,Can I get faster shipping for electronics?,Order Management Team,01-10-2024 13:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Some electronics offer ""Express Delivery"" or ""Next Day Delivery"" options during checkout for faster shipping, depending on your location.",,Resolved
+48,Kristen Perry,kristen.perry@gmail.com,31,Female,Can I apply multiple coupons to a single order?,Order Management Team,01-10-2024 13:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.No, only one coupon code can be applied to an order at a time. Choose the coupon that provides the best discount.",,Resolved
+49,Noah Mcknight,noah.mcknight@gmail.com,32,Male,Why can’t I find a product I ordered previously?,Order Management Team,01-10-2024 14:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.The product may have been discontinued, out of stock, or delisted by the seller. Check your past orders for details or contact customer support.",,Resolved
+50,Katie Johnson,katie.johnson@gmail.com,28,Female,How do I check the warranty status of my product?,Warranty and Claims Team,01-10-2024 14:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.The warranty details are available on the product page and your invoice. You can also contact the manufacturer for extended warranty information.",,Resolved
+51,Kayla Dunn,kayla.dunn@gmail.com,29,Female,Can I modify my order after it’s placed?,Order Management Team,01-10-2024 14:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Once an order is placed, modifications like adding or removing items are not possible. You may cancel and reorder.",,Resolved
+52,Tracy White,tracy.white@gmail.com,30,Female,How do I find Flipkart Assured products?,General Service Team,01-10-2024 14:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Look for the ""Flipkart Assured"" logo on product pages, which indicates that the item has passed strict quality and shipping standards.",,Resolved
+53,Christian Graves,christian.graves@gmail.com,35,Male,Can I sell my products on Flipkart?,General Service Team,01-10-2024 14:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, you can register as a seller on Flipkart by going to the Seller Hub, filling out the necessary details, and listing your products.",,Resolved
+54,Casey Reed,casey.reed@gmail.com,33,Male,What are Flipkart Coins?,General Service Team,01-10-2024 14:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart SuperCoins are loyalty points earned from purchases, which can be redeemed for discounts, offers, or purchases on the platform.",,Resolved
+55,Carrie Ayers,carrie.ayers@gmail.com,28,Female,What should I do if my payment is stuck?,Billing and Payment Support Team,01-10-2024 14:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If the payment is stuck or in process, wait for a confirmation. If the issue persists, contact your bank or Flipkart support to resolve it.",,Resolved
+56,Sarah Cole,sarah.cole@gmail.com,29,Female,How do I view my delivery PIN code's availability?,Order Management Team,01-10-2024 14:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Enter your PIN code on the product page to check if the product can be delivered to your location.",,Resolved
+57,Alison Ford,alison.ford@gmail.com,30,Female,Can I get same-day delivery?,Order Management Team,01-10-2024 14:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Same-day delivery is available for select items and locations. During checkout, the delivery options will show if this service is available.",,Resolved
+58,Lori Young,lori.young@gmail.com,36,Female,Can I request a manual refund to my bank account?,Billing and Payment Support Team,01-10-2024 14:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Refunds are automatically processed to the original payment method. Manual refunds are not typically available unless the payment method failed.",,Resolved
+59,Kimberly Mack,kimberly.mack@gmail.com,32,Female,How do I contact the seller directly?,General Service Team,01-10-2024 14:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.You can contact the seller via the Orders section by raising a query. Direct communication with the seller is not possible for every order.",,Resolved
+60,Samuel Schroeder,samuel.schroeder@gmail.com,28,Male,How do I cancel a return request?,Returns and Refunds Team,01-10-2024 14:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.To cancel a return request, go to the Orders section, select the product, and click on ""Cancel Return"" if the option is available.",,Resolved
+61,Amanda Burton,amanda.burton@gmail.com,29,Female,What happens if I miss my payment due date?,Billing and Payment Support Team,01-10-2024 15:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If you miss a payment due date for EMI or credit card, additional fees or interest may apply. Contact your bank for details on late payments.",,Resolved
+62,Sarah Williams,sarah.williams@gmail.com,31,Female,How do I check delivery charges before ordering?,Order Management Team,01-10-2024 15:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.On the product page, enter your PIN code to check the applicable delivery charges based on your location.",,Resolved
+63,Frank Sherman,frank.sherman@gmail.com,38,Male,What are the benefits of Flipkart Pay Later?,Billing and Payment Support Team,01-10-2024 15:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart Pay Later allows you to shop without immediate payment and settle the bill by the next month. It offers flexible payment options.",,Resolved
+64,Victoria Parker,victoria.parker@gmail.com,40,Female,How do I report suspicious activity on my account?,Account Management Team,01-10-2024 15:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If you notice unauthorized transactions or login attempts, change your password immediately and contact Flipkart support for assistance.",,Resolved
+65,David Smith,david.smith@gmail.com,33,Male,How do I check the status of a refund?,Returns and Refunds Team,01-10-2024 15:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.In your account, go to the Refunds section to view the status of your refund request. Most refunds are processed within 7-10 business days.",,Resolved
+66,Jeffrey Hernandez,jeffrey.hernandez@gmail.com,31,Male,Can I reschedule my delivery date?,Order Management Team,01-10-2024 15:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Some courier partners allow rescheduling. You will receive an SMS or call from the delivery agent to confirm the new time or date.",,Resolved
+67,John Robertson,john.robertson@gmail.com,36,Male,Can I place an order as a guest?,General Service Team,01-10-2024 15:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart does not allow guest checkouts. You need to create an account to place an order.",,Resolved
+68,Ryan Gonzalez,ryan.gonzalez@gmail.com,34,Male,How do I cancel an installation request?,Technical Support Team,01-10-2024 15:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Go to the Orders section, select the installation service, and choose ""Cancel."" The option is available before the scheduled installation date.",,Resolved
+69,Brianna Scott MD,brianna.scott@gmail.com,28,Female,Can I use Flipkart Coins with Cash on Delivery?,Billing and Payment Support Team,01-10-2024 15:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.No, Flipkart SuperCoins cannot be used for Cash on Delivery orders. They can only be redeemed during online payment methods.",,Resolved
+70,Michael Day,michael.day@gmail.com,29,Male,What should I do if my account is locked?,Account Management Team,01-10-2024 15:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If your account is locked due to multiple failed login attempts, reset your password using the ""Forgot Password"" option or contact support.",,Resolved
+71,Eileen Kim,eileen.kim@gmail.com,30,Female,Can I gift wrap my order?,General Service Team,01-10-2024 15:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart offers gift-wrapping services for select items during checkout. Check if the option is available for your order.",,Resolved
+72,Joseph Costa,joseph.costa@gmail.com,35,Male,Why can’t I pay using my Flipkart wallet balance?,Billing and Payment Support Team,01-10-2024 15:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Wallet balances are only accepted for certain orders. If the option is not available, you may need to use another payment method.",,Resolved
+73,Tanya Powell,tanya.powell@gmail.com,32,Female,How do I check if a product is on sale?,General Service Team,01-10-2024 16:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.'Sale offers and discounts are displayed on the product page. You can also visit Flipkart’s dedicated sale sections during events like Big Billion Days.",,Resolved
+74,Philip Davis,philip.davis@gmail.com,33,Male,How do I set product alerts for price drops?,General Service Team,01-10-2024 16:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.You can set alerts by adding the product to your Wishlist, and Flipkart will notify you of any price drops or special offers.",,Resolved
+75,Vanessa Hayes,vanessa.hayes@gmail.com,29,Female,Can I apply for a replacement without a return?,Returns and Refunds Team,01-10-2024 16:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, some products offer a replacement option directly without needing to return the product, depending on the issue and seller policies.",,Resolved
+76,Jennifer Bryan,jennifer.bryan@gmail.com,30,Female,How do I track my return request?,Returns and Refunds Team,01-10-2024 16:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.After initiating a return, you can track its status in the Orders section under the specific product details.",,Resolved
+77,Matthew Scott,matthew.scott@gmail.com,35,Male,How do I access Flipkart’s support chat?,General Service Team,01-10-2024 16:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Go to the Help section of the Flipkart app or website, and you’ll find a chat option for resolving your issues in real-time.",,Resolved
+78,Alfred Ortiz,alfred.ortiz@gmail.com,38,Male,Can I redeem Flipkart Coins on the mobile app?,General Service Team,01-10-2024 16:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, Flipkart SuperCoins can be redeemed on both the mobile app and website during checkout or in the SuperCoin Zone.",,Resolved
+79,John Goodman,john.goodman@gmail.com,40,Male,Why can’t I return a product I purchased?,Returns and Refunds Team,01-10-2024 16:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Some products have specific return policies based on categories or sellers. Check the return eligibility on the product page before purchasing.",,Resolved
+80,Catherine Stephens,catherine.stephens@gmail.com,31,Female,How do I get notified of new product launches?,General Service Team,01-10-2024 16:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.You can sign up for email or SMS alerts from Flipkart for new product launches, or follow specific product categories to stay updated.",,Resolved
+81,Sarah Lee,sarah.lee@gmail.com,28,Female,Can I combine Flipkart Pay Later with other offers?,Billing and Payment Support Team,01-10-2024 16:40,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Flipkart Pay Later cannot be combined with certain other payment offers or discounts. Check the terms and conditions during checkout.",,Resolved
+82,Kiara Parker,kiara.parker@gmail.com,29,Female,How do I view the full payment schedule for EMI?,Billing and Payment Support Team,01-10-2024 16:45,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.The EMI payment schedule can be viewed during checkout or on the bank’s website, where they list the payment breakdown and timeline.",,Resolved
+83,Joshua Miller,joshua.miller@gmail.com,33,Male,What should I do if my COD order is rejected?,Returns and Refunds Team,01-10-2024 16:50,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If your COD order is rejected by the courier partner, you can place a new order or contact Flipkart support for assistance.",,Resolved
+84,James Jones,james.jones@gmail.com,30,Male,How do I report an incorrect delivery?,General Service Team,01-10-2024 16:55,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.If you received the wrong product, log in to your account, go to Orders, and select ""Report Issue"" to raise a concern about the incorrect delivery.",,Resolved
+85,David Taylor,david.taylor@gmail.com,35,Male,Can I place multiple orders at once?,General Service Team,01-10-2024 17:00,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, you can place multiple orders at once by adding items to your cart and checking out in a single transaction.",,Resolved
+86,Richard Mullen,richard.mullen@gmail.com,32,Male,Why can’t I see the cash-on-delivery option?,Billing and Payment Support Team,01-10-2024 17:05,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you. Cash-on-delivery is only available for select items and PIN codes. If it’s not showing, it may not be applicable for your location or product.",,Resolved
+87,Danielle Everett,danielle.everett@gmail.com,40,Female,How do I use the Flipkart app for shopping?,Technical Support Team,01-10-2024 17:10,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Download the Flipkart app, create an account or log in, browse products, add items to your cart, and check out using your preferred payment method.",,Resolved
+88,Steven Thompson,steven.thompson@gmail.com,36,Male,What do I do if I forget my Flipkart password?,Account Management Team,01-10-2024 17:15,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Click on ""Forgot Password"" on the login page and follow the instructions to reset your password via email or SMS verification.",,Resolved
+89,Renee White,renee.white@gmail.com,38,Female,How do I know if my account is verified?,Account Management Team,01-10-2024 17:20,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.A verified account typically has a badge next to your profile name. If you have completed the KYC process, you will see this status.",,Resolved
+90,Lisa Hill,lisa.hill@gmail.com,29,Female,Can I use a third-party payment app?,Billing and Payment Support Team,01-10-2024 17:25,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you.Yes, you can use third-party payment apps like Paytm or PhonePe during checkout as long as they are linked to your bank account.",,Resolved
+91,Sandra Bass,sandra.bass@gmail.com,30,Female,How do I add products to my cart?,Order Management Team,01-10-2024 17:30,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you. To add products to your cart: 1. Log in to your Flipkart account. 2. Browse for the product you want to purchase. 3. On the product page, click the ""Add to Cart"" button. 4. You can continue shopping or go to your cart to proceed to checkout.",,Resolved
+92,Rohit Sharma,rohitsharma45@gmail.com,35,Male,How do I remove a product from my cart?,Order Management Team,01-10-2024 17:35,"Dear Flipkart User,
+Thank you for reaching out to us! We appreciate your inquiry and are here to assist you. To remove a product from your cart on Flipkart, follow these steps:
+Log in to your Flipkart account. Click on the cart icon at the top right corner of the page. In the cart, find the product you want to remove. Click on the ""Remove"" or ""Delete"" option next to the item. Confirm the removal if prompted.",,Resolved
